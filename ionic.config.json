@@ -1,0 +1,8 @@
+{
+  "name": "youtubeAPIs",
+  "app_id": "54c0532f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
